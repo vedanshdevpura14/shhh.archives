@@ -2,11 +2,17 @@
 
 > A quiet, editorial photography archive and digital darkroom for **Vedansh Devpura**.
 
+[![Live Website](https://img.shields.io/badge/Live_Website-shhh--archives.vercel.app-emerald?style=for-the-badge&logo=vercel)](https://shhh-archives.vercel.app/)
+
 [![Next.js](https://img.shields.io/badge/Next.js-16.4-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.0-black?style=flat&logo=framer)](https://www.framer.com/motion/)
+
+---
+
+🌐 **Live Demo:** [https://shhh-archives.vercel.app/](https://shhh-archives.vercel.app/)
 
 ---
 
@@ -120,6 +126,7 @@ ADMIN_PASSCODE=your_custom_passcode
 ## 👤 Author
 
 **Vedansh Devpura**
+- Portfolio: [https://shhh-archives.vercel.app](https://shhh-archives.vercel.app)
 - Instagram: [@shhhhhhh._.14](https://instagram.com/shhhhhhh._.14)
 - Email: [shootly.in@gmail.com](mailto:shootly.in@gmail.com)
 
