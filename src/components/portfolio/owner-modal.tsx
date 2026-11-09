@@ -102,9 +102,9 @@ export function OwnerLoginModal({
             </div>
 
             {error && (
-              <div className="flex items-center gap-1.5 text-xs text-rose-500">
-                <AlertCircle size={13} />
-                <span>{error}</span>
+              <div className="flex items-start gap-2 rounded-lg border border-rose-500/20 bg-rose-500/10 p-3 text-xs text-rose-400">
+                <AlertCircle size={15} className="shrink-0 mt-0.5" />
+                <span className="leading-relaxed">{error}</span>
               </div>
             )}
 
@@ -332,9 +332,9 @@ export function AddPhotoModal({
             </div>
 
             {error && (
-              <div className="flex items-center gap-1.5 text-xs text-rose-500">
-                <AlertCircle size={13} />
-                <span>{error}</span>
+              <div className="flex items-start gap-2 rounded-lg border border-rose-500/20 bg-rose-500/10 p-3 text-xs text-rose-400">
+                <AlertCircle size={15} className="shrink-0 mt-0.5" />
+                <span className="leading-relaxed">{error}</span>
               </div>
             )}
 
@@ -511,9 +511,9 @@ export function ChangePasscodeModal({
             </div>
 
             {error && (
-              <div className="flex items-center gap-1.5 text-xs text-rose-500">
-                <AlertCircle size={13} />
-                <span>{error}</span>
+              <div className="flex items-start gap-2 rounded-lg border border-rose-500/20 bg-rose-500/10 p-3 text-xs text-rose-400">
+                <AlertCircle size={15} className="shrink-0 mt-0.5" />
+                <span className="leading-relaxed">{error}</span>
               </div>
             )}
 
