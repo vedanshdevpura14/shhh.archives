@@ -10,7 +10,7 @@ const DATA_FILE = path.join(process.cwd(), "src", "data", "photos.json");
 const UPLOAD_DIR = path.join(process.cwd(), "public", "photos", "uploads");
 
 function hasBlobStorage(): boolean {
-  return Boolean(process.env.BLOB_READ_WRITE_TOKEN);
+  return Boolean(process.env.BLOB_READ_WRITE_TOKEN || process.env.BLOB_STORE_ID || process.env.VERCEL_OIDC_TOKEN);
 }
 
 function isVercel(): boolean {
